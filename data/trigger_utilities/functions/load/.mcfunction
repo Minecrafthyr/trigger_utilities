@@ -1,0 +1,1 @@
+execute unless data storage trigger_utilities:data load.installed run function trigger_utilities:load/install
